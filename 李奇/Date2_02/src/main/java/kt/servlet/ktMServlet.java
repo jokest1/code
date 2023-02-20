@@ -1,6 +1,9 @@
 package kt.servlet;
 
+import jakarta.servlet.http.HttpServlet;
+
 /**
-*
-*/public class ktMServlet {
+ *
+ */
+public class ktMServlet extends HttpServlet {
 }

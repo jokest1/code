@@ -1,6 +1,8 @@
 package Line;
 
 /**
-*
-*/public class queue {
+ *
+ */
+public class queue <E>{
+
 }
